@@ -1,5 +1,7 @@
 # greenbot
-A simple, virtual robot with interactive features that I made back in 2017.
+A simple, virtual robot with interactive features that I made back in 2017 as my first major project.
+
+To run the .exe files, Java is required.
 
 Hello! Welcome to GreenBot by Ryan Green!
 
