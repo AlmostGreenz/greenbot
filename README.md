@@ -1,6 +1,8 @@
 # greenbot
 A simple, virtual robot with interactive features that I made back in 2017 as my first major project.
 
+For more information, go to: https://www.ryanbgreen.ca/post/greenbot-the-interactive-robot
+
 To run the .exe files, Java is required.
 
 Hello! Welcome to GreenBot by Ryan Green!
@@ -23,5 +25,8 @@ Here are the features of GreenBot:
 
   ***Remember to Enable Your Sound to Be Able to Utilize all of GreenBot's Features ¸¸.-*¨*-♫♪***
 
-  Have Fun!
+   **Have Fun!**
+   
+   ---
   
+### To see more of my work, go to: [ryanbgreen.ca](https://www.ryanbgreen.ca/)
